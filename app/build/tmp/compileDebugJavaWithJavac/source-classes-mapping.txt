@@ -1,0 +1,17 @@
+com/example/itunes/MainActivity.java
+ com.example.itunes.MainActivity
+ com.example.itunes.MainActivity$1
+ com.example.itunes.MainActivity$1$1
+com/example/itunes/PlaySongs.java
+ com.example.itunes.PlaySongs
+ com.example.itunes.PlaySongs$1
+ com.example.itunes.PlaySongs$2
+ com.example.itunes.PlaySongs$3
+ com.example.itunes.PlaySongs$4
+ com.example.itunes.PlaySongs$4$1
+ com.example.itunes.PlaySongs$4$2
+ com.example.itunes.PlaySongs$5
+ com.example.itunes.PlaySongs$5$1
+ com.example.itunes.PlaySongs$5$2
+com/example/itunes/BuildConfig.java
+ com.example.itunes.BuildConfig
